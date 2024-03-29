@@ -1,4 +1,4 @@
-# 🌍 Analyse socioéconomique 
+# 🌍 Dynamiques du développement socioéconomique global : Une perspective historique et comparative
 
 🌐 Aperçu du projet
 ---
