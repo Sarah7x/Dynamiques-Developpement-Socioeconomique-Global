@@ -2,7 +2,7 @@
 
 🌐 Aperçu du projet
 ---
-Ce projet se penche sur l'évolution du statut socioéconomique global sur une période de 130 ans, en se basant sur une base de données exhaustive couvrant l'éducation et le PIB par habitant de 149 pays. L'objectif est de démêler les facteurs contribuant au développement socioéconomique, avec une attention particulière portée sur l'évolution de la Chine.
+Ce projet examine les tendances socioéconomiques mondiales sur 130 ans, analysant l'impact de l'éducation et du PIB sur le SES, avec une attention particulière portée à la Chine. Utilisant divers outils R, il met en lumière les disparités régionales et l'évolution économique et éducative. 
 
 📈 Faits saillants
 ---
